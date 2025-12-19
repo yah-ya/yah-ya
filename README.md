@@ -2,14 +2,14 @@
 
 # 👋 Hey, I'm Yahya (John)
 
-### 🚀 Senior Full-Stack Engineer | 🧠 Technical Product Manager
+### 🚀 Senior Full-Stack Engineer | 🧠 Technical Product Manager | 🏗 Software Engineer
 
 **Laravel • React • Vue.js • PHP • JavaScript**  
-Building scalable products, leading technical vision, and shipping real business value.
+Building scalable products, applying solid software engineering principles, and shipping real business value.
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Web+Developer;Laravel+%7C+React+%7C+Vue.js;Technical+Product+Management;Turning+Ideas+Into+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=Senior+Full-Stack+Engineer;Laravel+%7C+React+%7C+Vue.js;Software+Engineering+Mindset;Technical+Product+Management;Turning+Ideas+Into+Scalable+Products" />
 
 </div>
 
@@ -17,10 +17,23 @@ Building scalable products, leading technical vision, and shipping real business
 
 ## 🧠 About Me
 
-I’m a **Senior Full-Stack Developer** with deep expertise in **PHP (Laravel)** and modern **JavaScript frameworks (React & Vue.js)**.  
-Beyond coding, I work as a **Technical Product Manager**, aligning **business strategy, user needs, and engineering execution**.
+I’m a **Senior Full-Stack & Software Engineer** with deep expertise in **PHP (Laravel)** and modern **JavaScript frameworks (React & Vue.js)**.  
+I focus not only on writing code, but on **engineering robust, scalable, and maintainable systems**.
 
-💡 I thrive in environments where **architecture, product thinking, and delivery excellence** matter.
+In parallel, I work as a **Technical Product Manager**, ensuring alignment between **business goals, system design, and delivery execution**.
+
+---
+
+## 🏗 Software Engineering Focus
+
+- Clean Architecture & SOLID Principles  
+- Scalable System Design & Modular Codebases  
+- Design Patterns & Best Practices  
+- Performance, Security & Reliability  
+- Maintainability & Developer Experience (DX)  
+- Writing code that scales with **teams**, not just traffic  
+
+> *Engineering is not about writing more code — it’s about making the right decisions.*
 
 ---
 
@@ -30,6 +43,7 @@ Beyond coding, I work as a **Technical Product Manager**, aligning **business st
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Clean%20Architecture-0A0A0A?style=for-the-badge)
 
 ### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,63 +60,11 @@ Beyond coding, I work as a **Technical Product Manager**, aligning **business st
 
 ---
 
-## 🧩 What I Build
+## 📊 Product & Engineering Leadership
 
-✔️ Scalable full-stack web applications  
-✔️ Clean, maintainable Laravel architectures  
-✔️ High-performance SPAs with React & Vue  
-✔️ Secure APIs & complex integrations  
-✔️ Product-driven technical solutions  
+✔️ Translating business needs into technical solutions  
+✔️ Designing systems before writing code  
+✔️ Leading architecture & technical decisions  
+✔️ Mentoring developers & improving team standards  
+✔️ Building products with long-term vision  
 
----
-
-## 📊 Product Management Expertise
-
-🚀 Roadmaps & Strategy  
-📝 Technical PRDs & Specs  
-🧩 Feature Prioritization  
-🤝 Stakeholder Alignment  
-📈 Data-Driven Decisions  
-
-> *I don’t just build features — I build products that win.*
-
----
-
-## 🔥 Featured Work
-
-### 🚀 SaaS / Platform Project
-**Stack:** Laravel, React, REST APIs  
-**Impact:** Scaled to handle real-world production traffic  
-🔗 Repo: `Coming soon`
-
-### 🧠 Product-Focused Application
-**Stack:** Laravel, Vue.js, MySQL  
-**Impact:** Business-driven architecture & clean UX  
-🔗 Repo: `Coming soon`
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🌍 Let’s Connect
-
-🌐 Portfolio: *Coming Soon*  
-💼 LinkedIn: *Add your link*  
-📧 Email: *Add your email*
-
----
-
-<div align="center">
-
-⭐️ **Senior mindset. Product thinking. Engineering excellence.**
-
-</div>
